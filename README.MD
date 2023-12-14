@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bob Andrean</h1>
 <h3 align="center">A passionate FullStack From indonesia</h3>
 
-- 🔭 I’m currently working on [Centrinova](https://bitbucket.org/admin_sitama/fe_nnd/src)
+- 🔭 I’m currently working on [PT.Jari Solusi Internasional](https://bitbucket.org/admin_sitama/fe_nnd/src)
 
 - 🌱 I’m currently learning **VueJS & JavaScript**
 
